@@ -63,7 +63,7 @@ const education = [
 
 function About() {
   const handleDownloadResume = () => {
-    const resumeUrl = 'https://drive.google.com/uc?export=download&id=1cIt66W_0xA7Hd7rakVRqEi6BgbB6A8UD';
+    const resumeUrl = 'https://drive.google.com/file/d/179HFpDnkJOOVwV4yRwB-MA39FIxs2u84/view?usp=sharing';
     window.open(resumeUrl, '_blank');
   };
 

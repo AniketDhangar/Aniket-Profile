@@ -23,7 +23,7 @@ const projects = [
         description: "A modern chat application with real-time messaging capabilities, user authentication, and a responsive interface. Currently in development.",
 
         image: "https://plus.unsplash.com/premium_photo-1720032304972-1f1142e73253?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hhdCUyMGFwcHxlbnwwfHwwfHx8MA%3D%3D", // Add your project screenshot
-        technologies: ["React.js", "Node.js", "Socket.io", "MongoDB", "Material-UI", "Express.js"],
+        technologies: ["React.js", "Node.js", "Socket.io", "MongoDB", "Express.js"],
         liveLink: "https://your-chat-app-demo.com",
         githubLink: "https://github.com/AniketDhangar",
         features: [
@@ -47,6 +47,19 @@ const projects = [
             "Smooth page transitions",
             "Skills and experience sections",
             "Contact information integration"
+        ]
+    },
+    {
+        title: "Ecomzzzy (Redux Toolkit)",
+        description: "Features include product listing, cart management, and responsive design for an enhanced user experience.",
+        image:"https://img.freepik.com/free-photo/small-shopping-cart-with-word-shopping-it_1340-37320.jpg?ga=GA1.1.349956571.1737090530&semt=ais_hybrid",
+        technologies: ["React.js", "Talwind CSS", "Redux Toolkit","React-router-dom"],
+        liveLink: "https://ecomzzzy.netlify.app/",
+        githubLink: "https://github.com/AniketDhangar/E-commerce",
+        features: [
+            "Redux Toolkit",
+            "Interactive project showcase",
+            "Smooth page transitions with Tailwind CSS",
         ]
     }
 ];
